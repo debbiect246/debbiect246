@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @debbiect246.
-- 👀 I love learning about coding and using my skills and I am proficient atcoding with python frameworks.
+- 👀 I love learning about coding and using my skills to create interesting websites.
+- 👀 I am proficient at coding with django and flask.
 - 🌱 I’m currently learning to code in react.
 - 🌱 I'm also learning about data science libraries in python.
 - 💞️ I’m looking to collaborate on open source projects.
