@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @debbiect246
 - 👀 I’m interested in coding with python frameworks and react.
 - 🌱 I’m currently learning code in react.
+- I'm also learning about data science libraries in python.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me.    
 
